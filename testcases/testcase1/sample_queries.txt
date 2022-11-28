@@ -1,0 +1,23 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+----------------------------------------------------------------
+                      country name    num users    num relations
+----------------------------------------------------------------
+                               UKs            4               12
+                                SI            4               12
+----------------------------------------------------------------
+num graphs                       2
+----------------------------------------------------------------
+
+
+RECEIVED USER QUERY: 10 in SI
+>>>> user not found
+
+RECEIVED USER QUERY: 7 in SI
+>>>> 7 is already connected to all other users, no new recommendation
